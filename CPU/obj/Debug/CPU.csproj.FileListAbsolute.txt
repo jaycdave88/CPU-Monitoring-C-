@@ -1,0 +1,5 @@
+C:\Users\jdave\Desktop\One Drive\OneDrive\Code\Local\CPU\CPU\bin\Debug\CPU.exe.config
+C:\Users\jdave\Desktop\One Drive\OneDrive\Code\Local\CPU\CPU\bin\Debug\CPU.exe
+C:\Users\jdave\Desktop\One Drive\OneDrive\Code\Local\CPU\CPU\bin\Debug\CPU.pdb
+C:\Users\jdave\Desktop\One Drive\OneDrive\Code\Local\CPU\CPU\obj\Debug\CPU.exe
+C:\Users\jdave\Desktop\One Drive\OneDrive\Code\Local\CPU\CPU\obj\Debug\CPU.pdb
